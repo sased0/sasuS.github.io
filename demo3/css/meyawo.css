@@ -11365,7 +11365,7 @@ p {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  margin-bottom: 30px;
+          margin-bottom: 250px;
 }
 
 .testimonial-card-img-holder {
@@ -12232,3 +12232,4 @@ pre .code {
 .section-lg {
   padding: 100px 0 !important;
 }
+
