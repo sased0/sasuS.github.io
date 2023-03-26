@@ -316,7 +316,7 @@ a.menu-link { display: none; }
 
 .video-overlay {
     position: absolute;
-    background-color: rgb(162 164 169 / 85%);
+    background-color: rgb(61 30 64 / 85%);
     top: 0;
     left: 0;
     bottom: 7px;
@@ -496,7 +496,7 @@ section.features .col-4 {
 
 section.why-us {
     /* background-image: url(../images/choosing-bg.jpg); */
-    background-color: #efdada;
+    background-color: #ffffff;
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 100px;
