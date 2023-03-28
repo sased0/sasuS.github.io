@@ -562,6 +562,13 @@ mark,
   line-height: 1.2;
   margin-top: 20px;
   text-align: center;
+  color: white;
+}
+
+.nappula {
+  background-color: #f195b2;
+  color: white;
+  border: 1px solid white;
 }
 
 code {
